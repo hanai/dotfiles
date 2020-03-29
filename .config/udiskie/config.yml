@@ -1,0 +1,3 @@
+device_config:
+  - mount_path: /var/lib/snapd/*
+    ignore: true
