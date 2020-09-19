@@ -9,5 +9,6 @@ Xft.hinting:    true
 Xft.hintstyle:  hintslight
 Xft.autohint:   false
 Xft.lcdfilter:  lcddefault
+Xcursor.size:   32
 
 #include "./.config/urxvt"
