@@ -184,4 +184,5 @@ exec --no-startup-id dropbox
 exec --no-startup-id feh --randomize --bg-fill $HOME/Pictures/wp
 exec --no-startup-id greenclip daemon
 exec --no-startup-id udiskie -At
+exec --no-startup-id fcitx5 -d
 

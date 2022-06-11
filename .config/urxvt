@@ -4,7 +4,7 @@
 
 URxvt.secondaryWheel: 1
 
-URxvt.font: xft:Noto Sans Mono CJK SC:pixelsize=32
+URxvt.font: xft:Noto Sans Mono CJK SC:pixelsize=48
 
 URxvt.scrollBar_right: true
 URxvt.cursorBlink: true
